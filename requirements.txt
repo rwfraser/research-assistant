@@ -1,0 +1,10 @@
+streamlit>=1.30,<2.0
+requests>=2.31
+langgraph>=0.2
+typing_extensions>=4.8
+wikipedia>=1.4
+arxiv>=2.0
+faiss-cpu>=1.7
+PyPDF2>=3.0
+numpy>=1.24
+reportlab>=4.0
